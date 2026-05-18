@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html, body, #root{
@@ -8,6 +9,7 @@ html, body, #root{
   height: 100vh;
   background: linear-gradient(135deg, rgba(0, 0, 0, 0.712), rgba(0, 0, 0, 0.589));
   display: flex;
+  overflow-x: hidden;
 }
 
 .App{

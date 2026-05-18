@@ -1,6 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .habilidades{
-    width: 50vw;
-    min-height: 25vh;
+    width: 50%;
+    min-height: 25%;
     height: auto;
     margin-top: 10px;
     border-radius: 10px;

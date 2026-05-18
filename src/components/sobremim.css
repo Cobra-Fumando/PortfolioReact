@@ -1,6 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .Sobre{
-    width: 94vw;
-    min-height: 10vh;
+    width: 94%;
+    min-height: 10%;
     height: auto;
     margin-top: 10px;
     border-radius: 10px;

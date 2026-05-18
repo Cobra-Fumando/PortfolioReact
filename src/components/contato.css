@@ -1,6 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .contato{
-    width: 30vw;
-    min-height: 15vh;
+    width: 30%;
+    min-height: 15%;
     height: auto;
     margin-top: 10px;
     border-radius: 10px;
