@@ -22,7 +22,9 @@ html, body, #root{
 }
 
 .Portfolio{
-  width: 95vw;
+  width: 95%;
   display: flex;
-  gap: 60px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 }
