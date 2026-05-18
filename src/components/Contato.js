@@ -8,7 +8,7 @@ function Contato(){
                 <li>zaninithiago088@gmail.com</li>
                 <li>📱 (17) 99179-8142</li>
                 <li>🔗 https://github.com/Cobra-Fumando</li>
-                <li><a href='https://www.linkedin.com/in/thiago-z-3195a5331' target='_blank'>💼 https://www.linkedin.com/in/thiago-z-3195a5331 </a></li>
+                <li><a href='https://www.linkedin.com/in/thiago-z-3195a5331' target='_blank' rel='noreferrer'>💼 https://www.linkedin.com/in/thiago-z-3195a5331 </a></li>
             </ul>
         </div>
     )

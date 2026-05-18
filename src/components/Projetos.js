@@ -12,7 +12,7 @@ function Projetos(){
                 Integração com PostgreSQL
                 Testes de endpoints com Insomnia
             </p>
-            <a href="https://github.com/Cobra-Fumando?tab=repositories" target='_blank' className="Botao">Clique para visualizar</a>
+            <a href="https://github.com/Cobra-Fumando?tab=repositories" target='_blank' className="Botao" rel='noreferrer'>Clique para visualizar</a>
         </div>
     )
 }
