@@ -1,7 +1,6 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 .habilidades{
@@ -31,5 +30,5 @@
 }
 
 .habilidades ul li{
-    font-size: 20px;
+    font-size: 16px;
 }

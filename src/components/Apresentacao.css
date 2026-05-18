@@ -1,7 +1,6 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 :root{
@@ -10,7 +9,7 @@
 
 .Apresentar{
     width: 94%;
-    min-height: 20%;
+    min-height: 10%;
     height: auto;
     margin-top: 10px;
     border-radius: 10px;
