@@ -7,13 +7,12 @@ function Habilidades(){
             <ul>
                 <li>C# / .NET (ASP.NET Core, APIs RESTful)</li>
                 <li>Autenticação: JWT, Refresh Token, Cookies HttpOnly</li>
-                <li>Banco de Dados: PostgreSQL, SQLite</li>
+                <li>Banco de Dados: PostgreSQL, SQLite, SQL Server</li>
                 <li>Arquitetura: Camadas, Dependency Injection, Clean Architecture</li>
-                <li>Mensageria: SignalR</li>
-                <li>Ferramentas: Git, Postman</li>
-                <li>Clean Architecture</li>
-                <li>Dependency Injection</li>
-                <li>SQL Server (básico/intermediário)</li>
+                <li>Mensageria em tempo real: SignalR</li>
+                <li>Mensageria Assíncrona: RabbitMQ (filas, produtores e consumidores)</li>
+                <li>Cache: Redis (cache distribuído e armazenamento temporário)</li>
+                <li>Ferramentas: Git, Insomnia, Docker</li>
             </ul>
         </div>
     )
