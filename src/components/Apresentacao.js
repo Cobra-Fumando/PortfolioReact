@@ -15,10 +15,6 @@ function Apresentacao(){
                 Focado em React, C#, .NET e PostgreSQL.
                 Construo aplicações web e estou evoluindo como full stack.
             </p>
-
-            <p>
-                <strong>Ciência da Computação (1 Semestre)</strong>
-            </p>
         </div>
     )
 }
