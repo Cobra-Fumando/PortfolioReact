@@ -4,16 +4,16 @@ import Cobra from './Images/Cobra.jfif'
 function Apresentacao(){
     return(
         <div className='Apresentar'>
-            <div className='Imagem'>
-                <img src={Cobra} alt='Foto perfil'></img>
-                <h1><strong>Olá, eu sou Thiago Zanini </strong></h1>
-            </div>
+
+            <h1><strong>Olá, eu sou Thiago Zanini </strong></h1>
 
             <h2>Desenvolvedor Web em formação</h2>
 
             <p>
-                Focado em React, C#, .NET e PostgreSQL.
-                Construo aplicações web e estou evoluindo como full stack.
+                Focado no desenvolvimento de aplicações com C#, .NET e ASP.NET Core, 
+                com experiência prática na construção de APIs REST, autenticação JWT, Entity Framework Core, PostgreSQL, 
+                Redis e RabbitMQ. Também possuo conhecimentos em React, 
+                permitindo atuar na integração entre backend e frontend.
             </p>
         </div>
     )
