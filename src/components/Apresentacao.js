@@ -1,5 +1,4 @@
 import './Apresentacao.css'
-import Cobra from './Images/Cobra.jfif'
 
 function Apresentacao(){
     return(
